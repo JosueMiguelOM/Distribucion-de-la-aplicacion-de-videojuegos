@@ -1,6 +1,11 @@
 # 🎮 Distribución de la Aplicación de Videojuegos  
 Proyecto de la Unidad III
 
+---
+
+Alumno: Josué Miguel Ortiz Meza
+Grupo: GIDS5102
+
 Este proyecto consiste en la **creación, construcción y despliegue** de un videojuego desarrollado en **Unity**, cuyo objetivo es demostrar la capacidad de generar builds funcionales para **tres plataformas diferentes**:
 
 - 🌐 **WebGL**
