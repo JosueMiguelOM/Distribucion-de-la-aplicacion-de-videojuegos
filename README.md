@@ -40,5 +40,6 @@ https://drive.google.com/file/d/1T2jTDSwj7Z5RLqvCuk8vekOhMLDNYZp4/view?usp=shari
 
 ---
 
-## 📸 Capturas del Juego  
+## 🌎 Modelo de negocio
+https://docs.google.com/document/d/1K4IPAobfP0ua7FxQtCAB4vSj_GDMGwkH/edit?usp=sharing&ouid=113413271299809185260&rtpof=true&sd=true
 
